@@ -48,4 +48,4 @@
 ### Register Number: 24900862
 
 ## RESULT:
-### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+### Thus the displacement & velocity analysis for the given slider crankmechanism is simulated.
